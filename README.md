@@ -87,7 +87,7 @@ Use the `!expense` command:
 
 ## Demo
 
-[View Demo Video](https://youtu.be/your-demo-video-link)
+[View Demo Video](https://youtu.be/RZiH9hSMpEc)
 
 ## License
 
