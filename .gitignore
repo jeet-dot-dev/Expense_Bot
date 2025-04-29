@@ -1,0 +1,6 @@
+# Secrets and local-only files
+credentials.json
+.env
+
+# Node stuff
+node_modules/

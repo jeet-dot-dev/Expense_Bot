@@ -1,0 +1,27 @@
+{
+  "name": "expense-tracker-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that tracks expenses in Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "expenses",
+    "google-sheets"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^126.0.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
